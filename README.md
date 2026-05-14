@@ -70,8 +70,19 @@ Sau khi reboot, kiem tra:
 ls -l /dev/spidev0.0 /dev/spidev0.1
 ```
 
-## 5. Build sx1302_hal
-Trong thu muc project:
+## 5. Cài driver WM1302 (sx1302_hal)
+Clone repo chính thức:
+
+```bash
+git clone https://github.com/Lora-net/sx1302_hal.git
+```
+
+Vào thư mục:
+
+```bash
+cd sx1302_hal
+```
+Trong thu muc `sx1302_hal`:
 
 ```bash
 make clean
