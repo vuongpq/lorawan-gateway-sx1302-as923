@@ -371,11 +371,8 @@ sudo journalctl -u lora-pkt-fwd -f
 - Kiem tra clock, RX2 settings va profile khu vuc AS923 ben network server.
 
 ## 10. Khuyen nghi van hanh
-1. Chot duy nhat mot file dang chay: packet_forwarder/global_conf.json.
-2. Dat gateway_ID theo EUI that cua gateway de tranh xung dot.
-3. Ghi lai version phan mem va backup config truoc moi lan doi tan so/kenh.
-4. Neu chi van hanh packet forwarder, cap nhat packet_forwarder/reset_lgw.sh la du; neu van dung cac util/test trong repo thi cap nhat them tools/reset_lgw.sh de dong bo mapping chan.
+Neu chi van hanh packet forwarder, cap nhat packet_forwarder/reset_lgw.sh la du; neu van dung cac util/test trong repo thi cap nhat them tools/reset_lgw.sh de dong bo mapping chan.
 
 ---
 
-Tai lieu nay duoc viet theo hien trang project da tuy bien de dung WM1302 (Seeed Studio) + Raspberry Pi 3 B+ va duy tri comments trong file JSON cau hinh.
+Tai lieu nay duoc viet theo hien trang project da tuy bien de dung WM1302 (Seeed Studio) + Raspberry Pi 3 B+.
