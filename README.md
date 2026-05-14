@@ -1,4 +1,4 @@
-# Bao cao trien khai LoRaWAN Gateway WM1302 + Raspberry Pi 3 B+ (AS923 Viet Nam)
+# Tai lieu trien khai LoRaWAN Gateway WM1302 + Raspberry Pi 3 B+ (AS923 Viet Nam)
 
 ## 1. Muc tieu
 Tai lieu nay huong dan tung buoc de trien khai gateway LoRaWAN dung WM1302 cua Seeed Studio voi Raspberry Pi 3 B+, dua tren project sx1302_hal da duoc tuy bien.
